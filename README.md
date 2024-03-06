@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Nataliia and I am currently doing a PhD in Mathematics, concentrating on the applications of Optimal Transport
 
 <!--
 **manyasha-n-m/manyasha-n-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
